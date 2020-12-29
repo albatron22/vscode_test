@@ -1,0 +1,6 @@
+build
+#Drivers
+#.mxproject
+#STM32F103.svd
+#.vscode/.cortex-debug*
+Guide.txt
